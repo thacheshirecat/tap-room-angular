@@ -1,0 +1,36 @@
+h1
+{
+  text-align: center;
+}
+.main
+{
+  color: pink;
+}
+.lowBall
+{
+  color: white;
+}
+.medBall
+{
+  color: gold;
+}
+.highBall
+{
+  color: red;
+}
+.weakSauce
+{
+  font-style: italic;
+  color: white;
+}
+.booze
+{
+  font-weight: bold;
+  color: gold;
+}
+.PUREFIRE
+{
+  font-weight: bold;
+  font-size: 17px;
+  color: red;
+}
